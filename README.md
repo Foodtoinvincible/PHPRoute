@@ -1,16 +1,19 @@
 # PHP Route
 
+### 项目介绍
+一个轻量级的php route库，提供多种类型路由，使用简单。
+
+
 ### 支持
 + GET
 + POST
 + HEAD
-+ OPTION
++ OPTIONS
 + PUT
 + DELETE
 + PATCH
 + 路由分组
 + Facade
-
 
 ### 安装
 git clone xxx
